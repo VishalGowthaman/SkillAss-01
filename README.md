@@ -24,11 +24,9 @@ Step 7: Save and run the application.
 
 ## Program:
 ```
-/*
 SKILL ASSESSMENT-Android application to create a thread using Android Studio
-Developed by: Yuvadarshini S
-RegisterNumber: 212221230126 
-*/
+Developed by: Vishal Gowthaman K R
+RegisterNumber: 212221230123
 ```
 ## MainActivity.java:
 ```
